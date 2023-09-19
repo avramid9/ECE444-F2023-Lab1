@@ -5,3 +5,5 @@ This repo is taking code from https://github.com/miguelgrinberg/flasky.
 ![Screenshot](screenshots/activity1.png)
 ### Activity 2
 ![Screenshot](screenshots/activity2.png)
+### Activity 3
+![Screenshot](screenshots/activity3.png)
