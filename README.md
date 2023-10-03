@@ -1,2 +1,5 @@
 # Lab 3
 This repo is taking code from https://github.com/miguelgrinberg/flasky.
+
+### Activity 2
+![Screenshot](screenshots/activity2.png)
